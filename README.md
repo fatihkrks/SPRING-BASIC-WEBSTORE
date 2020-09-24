@@ -6,4 +6,4 @@ SPRING BASIC WEBSTORE
 <hr> </hr>
 
 
-![App] (Screenshot_2020-05-16 Products.png)
+![App](Screenshot_2020-05-16 Products.png)
